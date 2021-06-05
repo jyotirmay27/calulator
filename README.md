@@ -1,5 +1,5 @@
 # calulator
 
 <p align="center">
-  <img src="screenshot(413).png" width="350" title="Upload">
+  <img src="Screenshot (413).png" width="400" title="Upload">
   </p>
